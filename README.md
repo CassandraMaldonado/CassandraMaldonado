@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CassandraMaldonado
-- 👀 I’m interested in ...
+- 👀 Data Scientist | Passionate about customer behavior analysis | Proficient in Python, R, and SQL
 - 🌱 I’m currently learning MS in Applied Data Science at Univeristy of Chicago
 - 💞️ I’m looking to collaborate on customer behavior data analysis
 - 📫 How to reach me caseymr96@gmail.com
