@@ -2,7 +2,8 @@
 - 👀 Data Scientist | Passionate about customer behavior analysis | Proficient in Python, R, and SQL
 - 🌱 I’m currently learning MS in Applied Data Science at Univeristy of Chicago
 - 🛠️ Tech Stack: Python (Pandas, NumPy, Matplotlib, Scikit-Learn) | SQL | R | STATA
-- 🔢 Statistics: Bayesian Inference | Time Series Analysis, Causal Inference | A/B Testing | Multivariate Analysis | Generalized Linear Models | MLE | Markov Chain Monte Carlo | Sentiment Analysis | Panel Data Econometrics
+- 🔢 Statistics: Bayesian Inference | Time Series Analysis, Causal Inference | A/B Testing | Multivariate Analysis | Generalized Linear Models | MLE | 
+     Markov Chain Monte Carlo | Sentiment Analysis | Panel Data Econometrics
 - 👩🏻‍💻 Machine Learning (AI): Classification | Regression | Natural Language Processing (NLP) | Neural Networks
 - 📫 Contact: cassandramr@uchicago.edu & caseymr96@gmail.com
 - 🌐 Linkedin: https://www.linkedin.com/in/cassandra-maldonado
