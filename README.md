@@ -4,7 +4,7 @@
 - 🛠️ Tech Stack: Python (Pandas, NumPy, Matplotlib, Scikit-Learn) | SQL | R | STATA
 - 🔢 Statistics: Bayesian Inference | Time Series Analysis, Causal Inference | A/B Testing | Multivariate Analysis | Generalized Linear Models | MLE | 
      Markov Chain Monte Carlo | Sentiment Analysis | Panel Data Econometrics
-- 👩🏻‍💻 Machine Learning (AI): Classification | Regression | Natural Language Processing (NLP) | Neural Networks
+- 👩🏻‍💻 Machine Learning (AI): Classification | Regression | Natural Language Processing (NLP) | Neural Networks | LLM
 - 📫 Contact: cassandramr@uchicago.edu & caseymr96@gmail.com
 - 🌐 Linkedin: https://www.linkedin.com/in/cassandra-maldonado
 - 🚀 Always learning and exploring AI-driven insights!
