@@ -6,7 +6,7 @@
      Markov Chain Monte Carlo | Sentiment Analysis | Panel Data Econometrics
 - 👩🏻‍💻 Machine Learning (AI): Classification | Regression | Natural Language Processing (NLP) | Neural Networks | LLM
 - 📫 Contact: cassandramr@uchicago.edu & caseymr96@gmail.com
-- 🌐 Linkedin: https://www.linkedin.com/in/cassandra-maldonado
+- 🌐 Linkedin: www.linkedin.com/in/cassandra-msullivan
 - 🚀 Always learning and exploring AI-driven insights!
 - 💞️ I’m looking to collaborate on customer behavior data analysis
 - 😄 Pronouns: she/her
