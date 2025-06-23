@@ -8,6 +8,5 @@
 - 📫 Contact: cassandramr@uchicago.edu & caseymr96@gmail.com
 - 🌐 Linkedin: www.linkedin.com/in/cassandra-msullivan
 - 🚀 Always learning and exploring AI-driven insights!
-- 💞️ I’m looking to collaborate on customer behavior data analysis
-- 😄 Pronouns: she/her
+- 💞️ I’m looking to collaborate on customer behavior data analysis.
 - ⚡ Fun fact: I can do a backstand! 
