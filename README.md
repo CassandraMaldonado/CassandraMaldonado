@@ -24,5 +24,3 @@
 📬 Reach me at: cassandramr@uchicago.edu or caseymr96@gmail.com
 
 🌐 LinkedIn: [linkedin.com/in/cassandra-msullivan](https://www.linkedin.com/in/cassandra-msullivan)
-
-⚡ Fun fact: I can do a backstand!
