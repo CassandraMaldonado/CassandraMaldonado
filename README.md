@@ -1,4 +1,5 @@
 👋 Hi, I’m @CassandraMaldonado  
+Broken bones 5
 🎓 MS in Applied Data Science | University of Chicago  
 👩🏻‍💻 Data Scientist passionate about customer behavior, causal inference and AI-driven insights.
 
