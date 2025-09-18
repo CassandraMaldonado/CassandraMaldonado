@@ -4,7 +4,7 @@ Turning messy data into decisions: forecasting, causal inference and product ana
 **Focus areas:** experimentation (A/B & uplift), user behavior modeling and LLM/RAG for healthcare.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cassandra--msullivan-0A66C2?logo=linkedin)](https://www.linkedin.com/in/cassandra-msullivan/)
-[![Email](https://img.shields.io/badge/Email-cassandramr@uchicago.edu-EA4335?logo=gmail)](mailto:caseymr96@gmail.com)
+[![Email](https://img.shields.io/badge/Email-caseymr96@gmail.com-EA4335?logo=gmail)](mailto:caseymr96@gmail.com)
 
 ---
 
