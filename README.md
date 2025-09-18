@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Cassandra Sullivan Data Scientist | UChicago MS in Applied Data Science
 
-Turning messy data into decisions: forecasting, causal inference and product analytics.  
-**Focus areas:** experimentation (A/B & uplift), user behavior modeling and LLM/RAG for healthcare.
+Turning messy data into decisions: forecasting, causal inference, product analytics, and AI applications.  
+**Focus areas:** experimentation (A/B & uplift), user behavior modeling, LLM/RAG for healthcare, and agentic workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cassandra--msullivan-0A66C2?logo=linkedin)](https://www.linkedin.com/in/cassandra-msullivan/)
 [![Email](https://img.shields.io/badge/Email-caseymr96@gmail.com-EA4335?logo=gmail)](mailto:caseymr96@gmail.com)
