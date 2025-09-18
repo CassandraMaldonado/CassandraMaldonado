@@ -1,5 +1,8 @@
-👋 Hi, I’m @CassandraMaldonado  
-🎓 MS in Applied Data Science | University of Chicago 
+# Cassandra Sullivan — Data Scientist | UChicago MS in Applied Data Science
+
+Turning messy data into decisions: forecasting, causal inference, and product analytics.  
+**Focus areas:** experimentation (A/B & uplift), user behavior modeling and LLM/RAG for healthcare.
+
 👩🏻‍💻 Data Scientist passionate about customer behavior, causal inference and AI-driven insights.
 
 🛠️ **Tech Stack:**  
