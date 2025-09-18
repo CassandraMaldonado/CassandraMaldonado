@@ -1,5 +1,5 @@
 👋 Hi, I’m @CassandraMaldonado  
-🎓 MS in Applied Data Science | University of Chicago  
+🎓 MS in Applied Data Science | University of Chicago
 👩🏻‍💻 Data Scientist passionate about customer behavior, causal inference and AI-driven insights.
 
 🛠️ **Tech Stack:**  
