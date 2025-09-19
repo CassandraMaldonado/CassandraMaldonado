@@ -10,11 +10,11 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 
 ## 💡 What I’m great at
 - **Causal & Experimentation:** A/B tests, uplift modeling, diff-in-diff and policy impact analysis.
-- **Forecasting & Measurement:** ARIMA/Prophet/XGBoost time series, KPI design, variance drivers  
-- **LLM & NLP:** Retrieval-Augmented Generation (RAG), topic/sentiment, LLM evaluation & safety  
-- **Agents & Workflows:** Multi-agent pipelines (LangGraph, CrewAI, A2A protocol) for financial and healthcare tasks  
-- **LLM Fine-Tuning:** LoRA/QLoRA adaptation on biomedical and QA datasets; evaluation against baselines  
-- **Product Analytics:** funnels, cohorts, retention, user segmentation, experiment readouts  
+- **Forecasting & Measurement:** ARIMA/Prophet/XGBoost time series, KPI design and variance drivers.
+- **LLM & NLP:** Retrieval-Augmented Generation (RAG), topic/sentiment, LLM evaluation and safety.  
+- **Agents & Workflows:** Multi-agent pipelines (LangGraph, CrewAI, A2A protocol) for financial and healthcare tasks.  
+- **LLM Fine-Tuning:** LoRA/QLoRA adaptation on biomedical and QA datasets; evaluation against baselines.  
+- **Product Analytics:** funnels, cohorts, retention, user segmentation and experiment readouts.  
 
 ---
 🛠️ **Tech Stack:**  
