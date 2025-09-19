@@ -17,7 +17,15 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 - **Product Analytics:** funnels, cohorts, retention, user segmentation and experiment readouts.  
 
 ---
-🛠️ **Tech Stack:**  
+
+## 🛠 Tech
+**Python:** pandas, numpy, scikit-learn, statsmodels, xgboost, matplotlib  
+**ML/NLP:** transformers, sentence-transformers, faiss, langchain, peft  
+**Agents:** CrewAI, LangGraph, A2A protocol (multi-agent consensus/coordination)  
+**Data:** SQL (Postgres), dbt/ETL, Airflow/Prefect (familiar), DBeaver  
+**Other:** Git/GitHub, Jupyter, Tableau
+
+
 • Python (Pandas, NumPy, Scikit-Learn, Matplotlib)  
 • SQL, R, STATA  
 • Git, Jupyter, Tableau  
