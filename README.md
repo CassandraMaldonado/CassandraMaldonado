@@ -25,11 +25,6 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 **Data:** SQL (Postgres), dbt/ETL, Airflow/Prefect (familiar), DBeaver.  
 **Other:** Git/GitHub, Jupyter, Tableau.
 
-
-• Python (Pandas, NumPy, Scikit-Learn, Matplotlib)  
-• SQL, R, STATA  
-• Git, Jupyter, Tableau  
-
 🔢 **Core Skills:**  
 • Customer Behavior Modeling | A/B Testing | Time Series Forecasting  
 • Causal Inference | Bayesian Methods | Panel Data Econometrics  
