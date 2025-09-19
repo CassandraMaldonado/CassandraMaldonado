@@ -20,10 +20,10 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 
 ## 🛠 Tech
 **Python:** pandas, numpy, scikit-learn, statsmodels, xgboost, matplotlib.  
-**ML/NLP:** transformers, sentence-transformers, faiss, langchain, peft.  
+**ML/NLP:** transformers, sentence-transformers, faiss, langchain, peft  
 **Agents:** CrewAI, LangGraph, A2A protocol (multi-agent consensus/coordination)  
 **Data:** SQL (Postgres), dbt/ETL, Airflow/Prefect (familiar), DBeaver  
-**Other:** Git/GitHub, Jupyter, Tableau
+**Other:** Git/GitHub, Jupyter, Tableau.
 
 
 • Python (Pandas, NumPy, Scikit-Learn, Matplotlib)  
