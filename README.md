@@ -8,7 +8,7 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 
 ---
 
-## 💡 What I’m great at
+## Key Areas of Expertise
 - **Causal & Experimentation:** A/B tests, uplift modeling, diff-in-diff and policy impact analysis.
 - **Forecasting & Measurement:** ARIMA/Prophet/XGBoost time series, KPI design and variance drivers.
 - **LLM & NLP:** Retrieval-Augmented Generation (RAG), topic/sentiment, LLM evaluation and safety.  
