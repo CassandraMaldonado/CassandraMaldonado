@@ -25,6 +25,29 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 **Data:** SQL (Postgres), dbt/ETL, Airflow/Prefect (familiar), DBeaver.  
 **Other:** Git/GitHub, Jupyter, Tableau.
 
+---
+
+## 🔭 Projects
+- **LLM Healthcare Chatbot (RAG)**
+  - Retrieval-augmented pipeline with evaluation harness; chain-of-thought ablations; safety checks.  
+  - *Stack:* Python, transformers, sentence-transformers, FAISS, LangChain.  
+  - **Repo:** _link coming soon_
+
+- **Agentic Hedge Fund Workflow**
+  - Multi-agent system (MarketDataAgent, SentimentAgent, MacroEconAgent) using A2A protocol.  
+  - Consensus-driven strategy proposals with API integrations (Yahoo Finance, Binance, FRED).  
+  - **Repo:** `a2a_multiagent_hedge_fund`
+
+- **LLM Fine-Tuning for Healthcare QA**
+  - LoRA/QLoRA fine-tuning of Llama-MedX on RadQA + PubMedQA with CoT reasoning.  
+  - Evaluated on Open Medical LLM leaderboard metrics (accuracy, safety).  
+  - **Repo:** `LLM_Healthcare_Finetuning`
+
+- **Policy-Grade Forecasting & Causal Inference (Central Bank)**
+  - Regional inflation & growth forecasts (ARIMA/XGBoost), input–output analysis, shock sensitivity.  
+  - 15% error reduction vs baseline; presented insights to senior decision-makers.
+
+---
 🤝 Looking to collaborate on projects involving customer analytics, econometrics or applied ML in business and social impact.
 
 🚀 Always learning and exploring AI-driven insights!
