@@ -25,16 +25,6 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 **Data:** SQL (Postgres), dbt/ETL, Airflow/Prefect (familiar), DBeaver.  
 **Other:** Git/GitHub, Jupyter, Tableau.
 
-🔢 **Core Skills:**  
-• Customer Behavior Modeling | A/B Testing | Time Series Forecasting  
-• Causal Inference | Bayesian Methods | Panel Data Econometrics  
-• Multivariate Analysis | MLE | GLMs | MCMC  
-
-🗣️ **ML & NLP:**  
-• Classification, Regression, and Forecasting  
-• Sentiment Analysis | Topic Modeling | LLM Applications  
-• Neural Networks | NLP with Transformers  
-
 🤝 Looking to collaborate on projects involving customer analytics, econometrics or applied ML in business and social impact.
 
 🚀 Always learning and exploring AI-driven insights!
