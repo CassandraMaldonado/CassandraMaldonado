@@ -27,7 +27,7 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 
 ---
 
-## 🔭 Projects
+## 🔭 Some of my projects
 - **LLM Healthcare Chatbot (RAG)**
   - Retrieval-augmented pipeline with evaluation harness; chain-of-thought ablations; safety checks.  
   - *Stack:* Python, transformers, sentence-transformers, FAISS, LangChain.  
