@@ -27,20 +27,33 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 
 ---
 
-## 💻 Some of my projects in ML and analytics
-- **LLM Fine-Tuning for Healthcare QA**
-  - LoRA/QLoRA fine-tuning of Llama-MedX on RadQA + PubMedQA with CoT reasoning.  
-  - Evaluated on Open Medical LLM leaderboard metrics (accuracy, safety).  
-  - **Repo:** `LLM_Healthcare_Finetuning`
+## 💻 Data and AI Projects  
 
-- **Agentic Hedge Fund Workflow**
-  - Multi-agent system (MarketDataAgent, SentimentAgent, MacroEconAgent) using A2A protocol.  
-  - Consensus-driven strategy proposals with API integrations (Yahoo Finance, Binance, FRED).  
-  - **Repo:** `a2a_multiagent_hedge_fund`
+- **[LLM Healthcare](https://github.com/CassandraMaldonado/LLM_Healthcare)**  
+  Fine-tuned biomedical LLMs (LLaMA-MedX) with LoRA/QLoRA on datasets like PubMedQA and RadQA.  
+  Built a retrieval-augmented generation pipeline with safety and grounding evaluation to support clinical QA.  
+  **Tech Stack:** Python, Hugging Face, Transformers, FAISS, LangChain  
 
-- **Policy-Grade Forecasting & Causal Inference (Central Bank)**
-  - Regional inflation & growth forecasts (ARIMA/XGBoost), input–output analysis, shock sensitivity.  
-  - 15% error reduction vs baseline; presented insights to senior decision-makers.
+- **[Agentic Hedge Fund Workflow](https://github.com/CassandraMaldonado/a2a_multiagent_hedge_fund)**  
+  Designed a multi-agent system (MarketDataAgent, SentimentAgent, MacroEconAgent) using the A2A protocol.  
+  Agents collaborate and debate strategies with live financial data APIs (Yahoo Finance, Binance, FRED).  
+  **Tech Stack:** Python, LangGraph, CrewAI, APIs, Pandas  
+
+- **[Airfare Prediction](https://github.com/CassandraMaldonado/AirFare_Prediction)**  
+  Developed machine learning models (XGBoost, Random Forest, Time Series) to forecast airline fares.  
+  Leveraged historical OAG and ARC datasets to deliver insights for price indexing and consumer trends.  
+  **Tech Stack:** Python, Scikit-learn, XGBoost, Pandas, Matplotlib  
+
+- **[SentimentTune](https://github.com/CassandraMaldonado/SentimentTune)**  
+  Implemented transfer learning and fine-tuning of transformer models for sentiment analysis.  
+  Evaluated performance on domain-specific text to improve classification accuracy in noisy environments.  
+  **Tech Stack:** Python, Hugging Face, Transformers, PyTorch  
+
+- **[Resume Tailored](https://github.com/CassandraMaldonado/Resume_tailored)**  
+  Built a Python automation pipeline that tailors resumes to job descriptions using NLP and semantic similarity.  
+  Accelerates job applications while keeping outputs personalized and relevant.  
+  **Tech Stack:** Python, NLP, Scikit-learn, Pandas  
+
 
 ---
 🤝 Looking to collaborate on projects involving customer analytics, econometrics or applied ML in business and social impact.
