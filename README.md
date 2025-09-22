@@ -60,13 +60,5 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 ## 🤝 Always Learning  
 My journey is about combining economics, data science, and AI to build solutions that make an impact. I am continuously learning, exploring, and sharing through projects here.  
 
-📫 Reach me at cassandramr@uchicago.edu  
+📫 Reach me at: caseymr96@gmail.com or cassandramr@uchicago.edu  
 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/cassandra-msullivan)  
-
-🤝 Looking to collaborate on projects involving customer analytics, econometrics or applied ML in business and social impact.
-
-🚀 Always learning and exploring AI-driven insights!
-
-📬 Reach me at: cassandramr@uchicago.edu or caseymr96@gmail.com
-
-🌐 LinkedIn: [linkedin.com/in/cassandra-msullivan](https://www.linkedin.com/in/cassandra-msullivan)
