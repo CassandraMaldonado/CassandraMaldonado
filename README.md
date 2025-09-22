@@ -42,7 +42,7 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 - **[Airfare Prediction](https://github.com/CassandraMaldonado/AirFare_Prediction)**  
   Developed machine learning models (XGBoost, Random Forest, Time Series) to forecast airline fares.  
   Leveraged historical OAG and ARC datasets to deliver insights for price indexing and consumer trends.  
-  **Tech Stack:** Python, Scikit-learn, XGBoost, Pandas, Matplotlib  
+  **Tech Stack:** Python, Scikit-learn, XGBoost, Pandas, Matplotlib.  
 
 - **[SentimentTune](https://github.com/CassandraMaldonado/SentimentTune)**  
   Implemented transfer learning and fine-tuning of transformer models for sentiment analysis.  
