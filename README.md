@@ -47,7 +47,7 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 - **[SentimentTune](https://github.com/CassandraMaldonado/SentimentTune)**  
   Implemented transfer learning and fine-tuning of transformer models for sentiment analysis.  
   Evaluated performance on domain-specific text to improve classification accuracy in noisy environments.  
-  **Tech Stack:** Python, Hugging Face, Transformers, PyTorch  
+  **Tech Stack:** Python, Hugging Face, Transformers, PyTorch.  
 
 - **[Resume Tailored](https://github.com/CassandraMaldonado/Resume_tailored)**  
   Built a Python automation pipeline that tailors resumes to job descriptions using NLP and semantic similarity.  
