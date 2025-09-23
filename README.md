@@ -52,7 +52,7 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 - **[Resume Tailored](https://github.com/CassandraMaldonado/Resume_tailored)**  
   Built a Python automation pipeline that tailors resumes to job descriptions using NLP and semantic similarity.  
   Accelerates job applications while keeping outputs personalized and relevant.  
-  **Tech Stack:** Python, NLP, Scikit-learn, Pandas  
+  **Tech Stack:** Python, NLP, Scikit-learn, Pandas.  
 
 
 ---
