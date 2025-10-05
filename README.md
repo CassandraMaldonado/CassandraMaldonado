@@ -54,7 +54,6 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
   Accelerates job applications while keeping outputs personalized and relevant.  
   **Tech Stack:** Python, NLP, Scikit-learn, Pandas.  
 
-
 ---
 
 ## 🤝 Always Learning  
