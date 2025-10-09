@@ -1,4 +1,5 @@
-# 👩🏻‍💻 Cassandra Sullivan Data Scientist | UChicago MS in Applied Data Science
+# 👩🏻‍💻 Cassandra Sullivan Data Scientist | 
+# UChicago MS in Applied Data Science
 
 Turning messy data into decisions: forecasting, causal inference, product analytics, and AI applications.  
 **Focus areas:** experimentation (A/B & uplift), user behavior modeling, LLM/RAG for healthcare and agentic workflows.
