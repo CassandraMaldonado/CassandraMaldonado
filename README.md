@@ -37,12 +37,12 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 - **[Agentic Hedge Fund Workflow](https://github.com/CassandraMaldonado/a2a_multiagent_hedge_fund)**  
   Designed a multi-agent system (MarketDataAgent, SentimentAgent, MacroEconAgent) using the A2A protocol.  
   Agents collaborate and debate strategies with live financial data APIs (Yahoo Finance, Binance, FRED).  
-  **Tech Stack:** Python, LangGraph, CrewAI, APIs, Pandas.
+  **Tech Stack:** Python, LangGraph, CrewAI, APIs.
 
 - **[Airfare Prediction](https://github.com/CassandraMaldonado/AirFare_Prediction)**  
   Developed machine learning models (XGBoost, Random Forest, Time Series) to forecast airline fares.  
   Leveraged historical OAG and ARC datasets to deliver insights for price indexing and consumer trends.  
-  **Tech Stack:** Python, Scikit-learn, XGBoost, Pandas, Matplotlib.  
+  **Tech Stack:** Python, XGBoost.  
 
 - **[SentimentTune](https://github.com/CassandraMaldonado/SentimentTune)**  
   Implemented transfer learning and fine-tuning of transformer models for sentiment analysis.  
