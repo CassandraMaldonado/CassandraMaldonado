@@ -30,7 +30,7 @@ Turning messy data into decisions: forecasting, causal inference, product analyt
 ## 💻 Data and AI Projects  
 
 - **[LLM Healthcare](https://github.com/CassandraMaldonado/LLM_Healthcare)**  
-  Fine-tuned biomedical LLMs (LLaMA-MedX) with LoRA/QLoRA on datasets like PubMedQA and RadQA.  
+  Fine-tuned biomedical LLMs (LLaMA-MedX and GPT-OSS) with LoRA/QLoRA on datasets like PubMedQA and RadQA.  
   Built a retrieval-augmented generation pipeline with safety and grounding evaluation to support clinical QA.  
   **Tech Stack:** Python, Hugging Face, Transformers, FAISS, LangChain  
 
