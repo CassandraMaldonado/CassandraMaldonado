@@ -2,8 +2,9 @@
 
 **Data Scientist | Agentic AI Systems | Multimodal Intelligence | Applied ML at Scale**
 
-Turning messy data into decisions: forecasting, causal inference, product analytics, and AI applications.  
-**Focus areas:** experimentation (A/B & uplift), user behavior modeling, LLM/RAG for healthcare and agentic workflows.
+I build production-grade AI systems that combine **LLMs, computer vision, speech, and behavioral analytics** into unified, decision-making pipelines.
+
+Currently working as a Data Scientist, I focus on turning messy, unstructured data into **scalable intelligence systems** that drive real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cassandra--msullivan-0A66C2?logo=linkedin)](https://www.linkedin.com/in/cassandra-msullivan/)
 [![Email](https://img.shields.io/badge/Email-caseymr96@gmail.com-EA4335?logo=gmail)](mailto:caseymr96@gmail.com)
