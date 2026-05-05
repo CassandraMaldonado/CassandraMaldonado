@@ -1,6 +1,5 @@
 # 👩🏻‍💻 Cassandra Sullivan 
-# Data Scientist  
-# MS in Applied Data Science
+** Data Scientist  
 
 Turning messy data into decisions: forecasting, causal inference, product analytics, and AI applications.  
 **Focus areas:** experimentation (A/B & uplift), user behavior modeling, LLM/RAG for healthcare and agentic workflows.
