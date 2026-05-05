@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Cassandra Sullivan 
-** Data Scientist  
+
+**Data Scientist | Agentic AI Systems | Multimodal Intelligence | Applied ML at Scale**
 
 Turning messy data into decisions: forecasting, causal inference, product analytics, and AI applications.  
 **Focus areas:** experimentation (A/B & uplift), user behavior modeling, LLM/RAG for healthcare and agentic workflows.
