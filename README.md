@@ -10,6 +10,15 @@ Currently working as a Data Scientist, I focus on turning messy, unstructured da
 [![Email](https://img.shields.io/badge/Email-caseymr96@gmail.com-EA4335?logo=gmail)](mailto:caseymr96@gmail.com)
 
 ---
+## What I Do
+- Design **agentic AI systems** that reason, act, and orchestrate across tools  
+- Build **multimodal pipelines** (video, speech, text, structured data)  
+- Apply **LLMs + RAG + embeddings** for decision intelligence  
+- Translate complex ML into **business-facing products and insights**  
+- Productionize models with **end-to-end pipelines, evaluation, and monitoring**
+
+  
+---
 
 ## Technical Focus Areas
 - **Causal & Experimentation:** A/B tests, uplift modeling, diff-in-diff and policy impact analysis.
