@@ -17,16 +17,29 @@ Currently working as a Data Scientist, I focus on turning messy, unstructured da
 - Translate complex ML into **business-facing products and insights**  
 - Productionize models with **end-to-end pipelines, evaluation, and monitoring**
 
-  
 ---
+## 🧠 Featured Work
+### 🎥 Multimodal AI Behavioral Intelligence System
+Built an end-to-end system that transforms **video + speech into structured behavioral insights**.
+**Key Capabilities**
+- Computer vision to detect UI elements and navigation patterns  
+- Speech-to-text with timestamped intent extraction  
+- LLM reasoning to synthesize behavioral signals  
+- Event-based architecture for session-level analytics  
+- Cross-session aggregation for large-scale insights  
+**Impact**
+- Converts unstructured video into **quantifiable behavioral data**
+- Enables detection of:
+ - hesitation and confusion  
+ - trust signal usage  
+ - product consideration patterns  
+**Stack**
+Azure AI Foundry · GPT-4o · Vision Models · Speech-to-Text · Cosmos DB · Synapse
 
-## Technical Focus Areas
-- **Causal & Experimentation:** A/B tests, uplift modeling, diff-in-diff and policy impact analysis.
-- **Forecasting & Measurement:** ARIMA/Prophet/XGBoost time series, KPI design and variance drivers.
-- **LLM & NLP:** Retrieval-Augmented Generation (RAG), topic/sentiment, LLM evaluation and safety.  
-- **Agents & Workflows:** Multi-agent pipelines (LangGraph, CrewAI, A2A protocol) for financial and healthcare tasks.  
-- **LLM Fine-Tuning:** LoRA/QLoRA adaptation on biomedical and QA datasets; evaluation against baselines.  
-- **Product Analytics:** funnels, cohorts, retention, user segmentation and experiment readouts.  
+
+
+
+
 
 ---
 
