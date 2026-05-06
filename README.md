@@ -40,6 +40,28 @@ Built an end-to-end system that transforms **video + speech into structured beha
 **Stack**
 Azure AI Foundry · GPT-4o · Vision Models · Speech-to-Text · Cosmos DB · Synapse
 
+### 🤖 Agentic AI Data Analyst (Multi-Agent System)
+Developed a system of specialized agents that collaborate to generate insights and decisions:
+- Market Intelligence Agent  
+- Sentiment Analysis Agent  
+- Macro Agent (economic indicators)  
+- Forecasting Agent (Prophet + ARIMA ensemble)  
+- Risk Agent (volatility + downside modeling)  
+- Strategy Agent (LLM-driven decision making)  
+**Core Idea**
+Move from dashboards → **autonomous decision systems**
+---
+### 🧑‍⚕️ Healthcare LLM (Fine-Tuned + RAG)
+- Fine-tuned LLM using LoRA on medical datasets  
+- Built RAG pipeline with semantic retrieval  
+- Evaluated using faithfulness, relevance, and recall metrics  
+- Applied to clinical QA and radiology reasoning  
+---
+### 📊 MLOps + Production ML Systems
+- Built end-to-end pipelines with deployment and monitoring  
+- Implemented drift detection and model performance tracking  
+- Designed systems that connect **model outputs to business impact**
+---
 
 
 
