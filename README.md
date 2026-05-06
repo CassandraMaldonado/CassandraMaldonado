@@ -19,6 +19,7 @@ Currently working as a Data Scientist, I focus on turning messy, unstructured da
 
 ---
 ## 🧠 Featured Work
+
 ### 🎥 Multimodal AI Behavioral Intelligence System
 
 Built an end-to-end system that transforms **video + speech into structured behavioral insights**.
@@ -42,12 +43,12 @@ Azure AI Foundry · GPT-4o · Vision Models · Speech-to-Text · Cosmos DB · Sy
 
 ### 🤖 Agentic AI Data Analyst (Multi-Agent System)
 Developed a system of specialized agents that collaborate to generate insights and decisions:
-- Market Intelligence Agent  
-- Sentiment Analysis Agent  
-- Macro Agent (economic indicators)  
-- Forecasting Agent (Prophet + ARIMA ensemble)  
-- Risk Agent (volatility + downside modeling)  
-- Strategy Agent (LLM-driven decision making)  
+- Market Intelligence Agent. 
+- Sentiment Analysis Agent.  
+- Macro Agent. 
+- Forecasting Agent. 
+- Risk Agent (volatility and downside modeling).
+- Strategy Agent. 
 **Core Idea**
 Move from dashboards → **autonomous decision systems**
 ---
