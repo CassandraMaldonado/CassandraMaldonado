@@ -11,11 +11,11 @@ Currently working as a Data Scientist, I focus on turning messy, unstructured da
 
 ---
 ## What I Do
-- Design **agentic AI systems** that reason, act, and orchestrate across tools  
-- Build **multimodal pipelines** (video, speech, text, structured data)  
-- Apply **LLMs + RAG + embeddings** for decision intelligence  
-- Translate complex ML into **business-facing products and insights**  
-- Productionize models with **end-to-end pipelines, evaluation, and monitoring**
+- Design **agentic AI systems** that reason, act, and orchestrate across tools.  
+- Build **multimodal pipelines** (video, speech, text, structured data). 
+- Apply **LLMs + RAG + embeddings** for decision intelligence.  
+- Translate complex ML into **business-facing products and insights**. 
+- Productionize models with **end-to-end pipelines, evaluation, and monitoring**.
 
 ---
 ## 🧠 Featured Work
