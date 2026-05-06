@@ -31,11 +31,11 @@ Built an end-to-end system that transforms **video + speech into structured beha
 - Cross-session aggregation for large-scale insights.
     
 **Impact**
-- Converts unstructured video into **quantifiable behavioral data**
+- Converts unstructured video into **quantifiable behavioral data**.
 - Enables detection of:
- - hesitation and confusion  
- - trust signal usage  
- - product consideration patterns
+ - hesitation and confusion.  
+ - trust signal usage.  
+ - product consideration patterns.
   
 **Stack**
 Azure AI Foundry · GPT-4o · Vision Models · Speech-to-Text · Cosmos DB · Synapse
