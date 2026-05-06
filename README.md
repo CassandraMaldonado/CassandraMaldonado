@@ -24,11 +24,11 @@ Currently working as a Data Scientist, I focus on turning messy, unstructured da
 Built an end-to-end system that transforms **video + speech into structured behavioral insights**.
 
 **Key Capabilities**
-- Computer vision to detect UI elements and navigation patterns  
-- Speech-to-text with timestamped intent extraction  
-- LLM reasoning to synthesize behavioral signals  
-- Event-based architecture for session-level analytics  
-- Cross-session aggregation for large-scale insights
+- Computer vision to detect UI elements and navigation patterns.  
+- Speech-to-text with timestamped intent extraction.
+- LLM reasoning to synthesize behavioral signals.
+- Event-based architecture for session-level analytics. 
+- Cross-session aggregation for large-scale insights.
     
 **Impact**
 - Converts unstructured video into **quantifiable behavioral data**
