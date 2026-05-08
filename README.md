@@ -34,9 +34,9 @@ Built an end-to-end system that transforms **video + speech into structured beha
 **Impact**
 - Converts unstructured video into **quantifiable behavioral data**.
 - Enables detection of:
- - hesitation and confusion.  
- - trust signal usage.  
- - product consideration patterns.
+ - hesitation and confusion
+ - trust signal usage 
+ - product consideration patterns
   
 **Stack**
 Azure AI Foundry · GPT-4o · Vision Models · Speech-to-Text · Cosmos DB · Synapse
@@ -48,7 +48,8 @@ Developed a system of specialized agents that collaborate to generate insights a
 - Macro Agent. 
 - Forecasting Agent. 
 - Risk Agent (volatility and downside modeling).
-- Strategy Agent. 
+- Strategy Agent.
+
 **Core Idea**
 Move from dashboards → **autonomous decision systems**
 ---
