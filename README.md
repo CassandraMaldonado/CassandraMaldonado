@@ -51,7 +51,9 @@ Developed a system of specialized agents that collaborate to generate insights a
 - Strategy Agent.
 
 **Core Idea**
-Move from dashboards → **autonomous decision systems**
+
+Move from dashboards -> **autonomous decision systems**
+
 ---
 ### 🧑‍⚕️ Healthcare LLM (Fine-Tuned + RAG)
 - Fine-tuned LLM using LoRA on medical datasets  
