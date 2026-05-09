@@ -65,6 +65,7 @@ Move from dashboards -> **autonomous decision systems**
 - Applied to clinical QA and radiology reasoning.
  
 ---
+
 ### 📊 MLOps + Production ML Systems
 - Built end-to-end pipelines with deployment and monitoring.  
 - Implemented drift detection and model performance tracking.
@@ -92,7 +93,7 @@ Python · SQL · XGBoost · Prophet · ARIMA · Embeddings · Vector DBs
 Most data science stops at models.  
 I build **systems that think, act, and scale.**
 
-- From prediction → decision intelligence  
+- From prediction -> decision intelligence  
 - From dashboards → autonomous agents  
 - From structured data → multimodal reasoning systems  
 
