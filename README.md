@@ -42,6 +42,7 @@ Built an end-to-end system that transforms **video + speech into structured beha
 Azure AI Foundry · GPT-4o · Vision Models · Speech-to-Text · Cosmos DB · Synapse
 
 ---
+
 ### 🤖 Agentic AI Data Analyst (Multi-Agent System)
 Developed a system of specialized agents that collaborate to generate insights and decisions:
 - Market Intelligence Agent. 
@@ -56,6 +57,7 @@ Developed a system of specialized agents that collaborate to generate insights a
 Move from dashboards -> **autonomous decision systems**
 
 ---
+
 ### 🧑‍⚕️ Healthcare LLM (Fine-Tuned + RAG)
 - Fine-tuned LLM using LoRA on medical datasets.  
 - Built RAG pipeline with semantic retrieval.  
@@ -85,7 +87,26 @@ Python · SQL · XGBoost · Prophet · ARIMA · Embeddings · Vector DBs
 
 ---
 
-arn, Pandas.  
+## 🧩 What Makes My Work Different
+
+Most data science stops at models.  
+I build **systems that think, act, and scale.**
+
+- From prediction → decision intelligence  
+- From dashboards → autonomous agents  
+- From structured data → multimodal reasoning systems  
+
+---
+
+## 📌 Current Focus
+
+- Agentic AI systems for real-world decision making  
+- Multimodal AI (video, speech, behavior)  
+- LLM evaluation and reliability  
+- AI systems that bridge research → production  
+
+---
+
 
 ---
 
