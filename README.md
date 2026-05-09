@@ -85,32 +85,7 @@ Python · SQL · XGBoost · Prophet · ARIMA · Embeddings · Vector DBs
 
 ---
 
-## 💻 Data and AI Projects  
-
-- **[LLM Healthcare](https://github.com/CassandraMaldonado/LLM_Healthcare)**  
-  Fine-tuned biomedical LLMs (LLaMA-MedX and GPT-OSS) with LoRA/QLoRA on datasets like PubMedQA and RadQA.  
-  Built a retrieval-augmented generation pipeline with safety and grounding evaluation to support clinical QA.  
-  **Tech Stack:** Python, Hugging Face, Transformers, FAISS, LangChain  
-
-- **[Agentic Hedge Fund Workflow](https://github.com/CassandraMaldonado/a2a_multiagent_hedge_fund)**  
-  Designed a multi-agent system (MarketDataAgent, SentimentAgent, MacroEconAgent) using the A2A protocol.  
-  Agents collaborate and debate strategies with live financial data APIs (Yahoo Finance, Binance, FRED).  
-  **Tech Stack:** Python, LangGraph, CrewAI, APIs.
-
-- **[Airfare Prediction](https://github.com/CassandraMaldonado/AirFare_Prediction)**  
-  Developed machine learning models (XGBoost, Random Forest, Time Series) to forecast airline fares.  
-  Leveraged historical OAG and ARC datasets to deliver insights for price indexing and consumer trends.  
-  **Tech Stack:** Python, XGBoost.  
-
-- **[SentimentTune](https://github.com/CassandraMaldonado/SentimentTune)**  
-  Implemented transfer learning and fine-tuning of transformer models for sentiment analysis.  
-  Evaluated performance on domain-specific text to improve classification accuracy in noisy environments.  
-  **Tech Stack:** Python, Hugging Face, Transformers, PyTorch.  
-
-- **[Resume Tailored](https://github.com/CassandraMaldonado/Resume_tailored)**  
-  Built a Python automation pipeline that tailors resumes to job descriptions using NLP and semantic similarity.  
-  Accelerates job applications while keeping outputs personalized and relevant.  
-  **Tech Stack:** Python, NLP, Scikit-learn, Pandas.  
+arn, Pandas.  
 
 ---
 
