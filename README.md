@@ -94,8 +94,8 @@ Most data science stops at models.
 I build **systems that think, act, and scale.**
 
 - From prediction -> decision intelligence  
-- From dashboards → autonomous agents  
-- From structured data → multimodal reasoning systems  
+- From dashboards -> autonomous agents  
+- From structured data -> multimodal reasoning systems  
 
 ---
 
