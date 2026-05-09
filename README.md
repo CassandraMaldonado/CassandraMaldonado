@@ -88,7 +88,7 @@ Python · SQL · XGBoost · Prophet · ARIMA · Embeddings · Vector DBs
 
 ---
 
-## 🧩 What Makes My Work Different
+## What Makes My Work Different
 
 Most data science stops at models.  
 I build **systems that think, act, and scale.**
@@ -99,20 +99,16 @@ I build **systems that think, act, and scale.**
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
-- Agentic AI systems for real-world decision making  
-- Multimodal AI (video, speech, behavior)  
-- LLM evaluation and reliability  
-- AI systems that bridge research → production  
-
----
-
+- Agentic AI systems for real-world decision making  .
+- Multimodal AI (video, speech, behavior).
+- LLM evaluation and reliability.
+- AI systems that bridge research -> production.  
 
 ---
 
 ## 🤝 Always Learning  
 My journey is about combining economics, data science, and AI to build solutions that make an impact. I am continuously learning, exploring, and sharing through projects here.  
 
-📫 Reach me at: caseymr96@gmail.com or cassandramr@uchicago.edu  
 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/cassandra-msullivan)  
