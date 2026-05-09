@@ -69,13 +69,19 @@ Move from dashboards -> **autonomous decision systems**
 - Designed systems that connect **model outputs to business impact**.
 ---
 
+## 🧰 Tech Stack
 
-## 🛠 Tech
-**Python:** pandas, numpy, scikit-learn, statsmodels, xgboost, matplotlib.  
-**ML/NLP:** transformers, sentence-transformers, faiss, langchain, peft.  
-**Agents:** CrewAI, LangGraph, A2A protocol (multi-agent coordination).  
-**Data:** SQL (Postgres), dbt/ETL, Airflow/Prefect (familiar), DBeaver.  
-**Other:** Git/GitHub, Jupyter, Tableau.
+**AI / ML**
+LLMs · RAG · Prompt Engineering · LoRA · NLP · Computer Vision · Time Series  
+
+**Agentic Systems**
+Multi-agent architectures · Tool-augmented LLMs · Decision orchestration  
+
+**Cloud & Infra**
+Azure AI Foundry · Azure ML · BigQuery · Vertex AI  
+
+**Data & Modeling**
+Python · SQL · XGBoost · Prophet · ARIMA · Embeddings · Vector DBs  
 
 ---
 
