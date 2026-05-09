@@ -64,16 +64,11 @@ Move from dashboards -> **autonomous decision systems**
  
 ---
 ### 📊 MLOps + Production ML Systems
-- Built end-to-end pipelines with deployment and monitoring  
-- Implemented drift detection and model performance tracking  
-- Designed systems that connect **model outputs to business impact**
+- Built end-to-end pipelines with deployment and monitoring.  
+- Implemented drift detection and model performance tracking.
+- Designed systems that connect **model outputs to business impact**.
 ---
 
-
-
-
-
----
 
 ## 🛠 Tech
 **Python:** pandas, numpy, scikit-learn, statsmodels, xgboost, matplotlib.  
